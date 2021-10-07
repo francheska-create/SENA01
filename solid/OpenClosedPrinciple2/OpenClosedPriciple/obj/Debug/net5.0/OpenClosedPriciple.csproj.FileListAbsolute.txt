@@ -1,0 +1,16 @@
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\bin\Debug\net5.0\OpenClosedPriciple.exe
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\bin\Debug\net5.0\OpenClosedPriciple.deps.json
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\bin\Debug\net5.0\OpenClosedPriciple.runtimeconfig.json
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\bin\Debug\net5.0\OpenClosedPriciple.runtimeconfig.dev.json
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\bin\Debug\net5.0\OpenClosedPriciple.dll
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\bin\Debug\net5.0\ref\OpenClosedPriciple.dll
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\bin\Debug\net5.0\OpenClosedPriciple.pdb
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.csproj.AssemblyReference.cache
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.AssemblyInfoInputs.cache
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.AssemblyInfo.cs
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.csproj.CoreCompileInputs.cache
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.dll
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\ref\OpenClosedPriciple.dll
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.pdb
+C:\Users\JoseLuisAvilaParamo\Documents\SOLID2\OpenClosedPriciple\obj\Debug\net5.0\OpenClosedPriciple.genruntimeconfig.cache

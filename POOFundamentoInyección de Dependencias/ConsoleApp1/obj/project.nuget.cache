@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgqsfZHXxN+gEEVxv+tLUtgjA4g3djVBS3YClTpwcYan/goOgT7b7ZNsSSsPW0a4eljE83eLLExC7QDbZY2+UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Universo\\source\\repos\\POOFundamentoInyección de Dependencias\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Universo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Universo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

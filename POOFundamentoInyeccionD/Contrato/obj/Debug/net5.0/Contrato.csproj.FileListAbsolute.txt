@@ -1,0 +1,5 @@
+C:\Users\Universo\source\repos\POOFundamentoInyeccionD\Contrato\obj\Debug\net5.0\Contrato.csproj.AssemblyReference.cache
+C:\Users\Universo\source\repos\POOFundamentoInyeccionD\Contrato\obj\Debug\net5.0\Contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universo\source\repos\POOFundamentoInyeccionD\Contrato\obj\Debug\net5.0\Contrato.AssemblyInfoInputs.cache
+C:\Users\Universo\source\repos\POOFundamentoInyeccionD\Contrato\obj\Debug\net5.0\Contrato.AssemblyInfo.cs
+C:\Users\Universo\source\repos\POOFundamentoInyeccionD\Contrato\obj\Debug\net5.0\Contrato.csproj.CoreCompileInputs.cache

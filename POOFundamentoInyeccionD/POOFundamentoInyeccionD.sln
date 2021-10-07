@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{7FD21B6C-5C41-4020-A9F3-AF4A4BA5858C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contratos", "Contrato\Contratos.csproj", "{AD740538-3481-452C-9402-BA490EF7E714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C77F65B3-8D87-4E1C-BA2E-61392C9DB5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD21B6C-5C41-4020-A9F3-AF4A4BA5858C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD21B6C-5C41-4020-A9F3-AF4A4BA5858C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD21B6C-5C41-4020-A9F3-AF4A4BA5858C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD21B6C-5C41-4020-A9F3-AF4A4BA5858C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD740538-3481-452C-9402-BA490EF7E714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD740538-3481-452C-9402-BA490EF7E714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD740538-3481-452C-9402-BA490EF7E714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD740538-3481-452C-9402-BA490EF7E714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77F65B3-8D87-4E1C-BA2E-61392C9DB5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77F65B3-8D87-4E1C-BA2E-61392C9DB5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77F65B3-8D87-4E1C-BA2E-61392C9DB5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77F65B3-8D87-4E1C-BA2E-61392C9DB5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCF79DD-2053-4001-874B-D3D00B4431A0}
+	EndGlobalSection
+EndGlobal

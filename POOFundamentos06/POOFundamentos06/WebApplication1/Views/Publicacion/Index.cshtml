@@ -1,0 +1,167 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Publicación";
+}
+
+    <div class="container">
+        <div class="row">
+            <form action="">
+                <div class="col">
+                    <div class="row">
+                        <fieldset>
+                            <legend>Seleccione el formato:</legend>
+                            <div class="form-check">
+                                <input type="radio" id="chkAudio" name="formato" value="Audio">
+                                <label for="chkAudio">Audio</label><br>
+                                <input type="radio" id="chkLibro" name="formato" value="Libro">
+                                <label for="chkLibro">Libro</label><br>
+                                </div>
+                        </fieldset>
+                    </div>
+                    <br />
+                        <div class="form-group">
+                            <input class="form-control" type="text" id="txtTitulo">
+                            <label>Titulo</label>
+
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" type="number" id="txtPrecio">
+                            <label>Precio</label>
+
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" type="number" id="txtNumeroPagina" >
+                            <label>Numero de Paginas</label>
+
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" type="number" id="txtTiempo">
+                            <label>Tiempo(Minutos)</label>
+
+                        </div>
+
+                        <div>
+                            <input type="button" id="btnCapDatos" value="Capturar Datos" class="btn btn-info" />
+                            <input type="button" id="btnMosDatos" value="Mostrar Datos" disabled class="btn btn-primary" />
+                            <input type="button" id="btnSalir" value="Cancelar" class="btn btn-danger" />
+
+                        </div>
+                    </div>
+                <br />
+
+                    <div class="row">
+                        <div class="col">
+                            <div class="alert alert-success" role="alert" id="TextAlert"><span><strong>Titulo:</strong>&nbsp; <label id="lblTitulo"></label> </span> </div>
+                        </div>
+                        <div class="col">
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="alert alert-success" role="alert" id="TextAlert"><span><strong>Precio:</strong>&nbsp; <label id="lblPrecio"></label></span> </div>
+                        </div>
+                        <div class="col">
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="alert alert-success" role="alert" id="TextAlert"><span><strong>Numero de paginas:</strong>&nbsp; <label id="lblNumPags"></label></span> </div>
+                        </div>
+                        <div class="col">
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="alert alert-success" role="alert" id="TextAlert"><span><strong>Tiempo(Minutos):</strong>&nbsp; <label id="lblTiempo"></label></span> </div>
+                        </div>
+                        <div class="col">
+                        </div>
+
+
+                    </div>
+</form>
+        </div>
+    </div>
+
+    @section Scripts{
+
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+
+<script type="text/javascript">
+    $(function () {
+        $("#btnCapDatos").click(function (e) {
+
+            if (!$('#chkAudio').is(':checked') && !$('#chkLibro').is(':checked')) {
+                alert("¡Debe marcar una de las opciones!");
+
+                return false;
+                e.preventDefault();
+            }else
+            if ($("#txtTitulo").val().trim() =="")
+            {
+                alert("¡Debe agregar un titulo válido!");
+            }else
+            if ($("#txtPrecio").val().trim() == "") {
+                alert("¡Debe agregar un precio válido!");
+            }else
+                if ($("#txtNumeroPagina").val().trim() == "" && !$('#chkAudio').is(':checked')) {
+                alert("¡Debe agregar un numero de páginas válido!");
+            }else
+                    if ($("#txtTiempo").val().trim() == "" && $('#chkAudio').is(':checked')) {
+                alert("¡Debe agregar una cantidad de minutos válida!");
+            }
+            else {
+                $("#btnMosDatos").prop('disabled', false);
+                var url = "@Url.Action("CapturarDatos", "Publicacion")";
+                var Titulo = $("#txtTitulo").val();
+                var Precio = $("#txtPrecio").val();
+                var Numeropaginas = $("#txtNumeroPagina").val();
+                var tipo = 1;
+                var tiempo = $("#txtTiempo").val();
+                if ($('#chkAudio').is(':checked')) {
+                    tipo = 2;
+                }
+                var data = { tipo:tipo, Titulo: Titulo, Precio: Precio, Numeropaginas: Numeropaginas, tiempoReproduccion:tiempo };
+
+                $.post(url, data).done(function (resultado) {
+                    
+                    localStorage.setItem('Titulo', resultado.titulo);
+                    localStorage.setItem('Precio', resultado.precio);
+                    localStorage.setItem('Numeropaginas', resultado.numeroPaginas == null ? '' : resultado.numeroPaginas );
+                    localStorage.setItem('tiempoReproduccion', resultado.tiempoReproduccion == null ? '' : resultado.tiempoReproduccion );
+                    alert("Datos capturados exitosamente.");
+                });
+
+            }
+        });
+        $("#btnMosDatos").click(function (e) {
+            $("#lblTitulo").html(localStorage.getItem('Titulo'));
+            $("#lblPrecio").html(localStorage.getItem('Precio'));
+            $("#lblNumPags").html(localStorage.getItem('Numeropaginas'));
+            $("#lblTiempo").html(localStorage.getItem('tiempoReproduccion'));
+        });
+        $("#btnSalir").click(function (e) {
+            localStorage.setItem('Titulo', '');
+            localStorage.setItem('Precio', '');
+            localStorage.setItem('Numeropaginas', '');
+            localStorage.setItem('tiempoReproduccion', '');
+            $("#btnMosDatos").prop('disabled', true);
+            alert("Datos limpiados exitosamente.");
+        });
+
+        $("#chkAudio").click(function (e) {
+            $("#txtTiempo").prop('disabled', false);
+            $("#txtNumeroPagina").prop('disabled', true);
+        });
+        $("#chkLibro").click(function (e) {
+            $("#txtTiempo").prop('disabled', true);
+            $("#txtNumeroPagina").prop('disabled', false);
+        });
+    });
+</script>
+    }

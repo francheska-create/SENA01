@@ -1,0 +1,302 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Calcular areas";
+}
+
+<form id="">
+
+
+
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="card login-logout-tab">
+                <div class="card-header">
+
+                    <ul class="nav nav-tabs card-header-tabs justify-content-center" style="margin-left:00px;">
+                        <li class="nav-item">
+                            <a class="nav-link" id="aCuadrado" href='#tab2'>Cuadrado</a>
+
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="aCircunferencia" href='#tab1'>Circunferencia</a>
+
+                        </li>
+                    </ul>
+                    <div class="secciones" style="margin-top:14px;">
+                        <article id="tab1">
+                            <div class="col-md-10 offset-md-1">
+                                @*Circunferencia*@
+                                <input id="txtRadio" type="number" class="form-control " placeholder="Radio" />
+                                <br />
+                                <input type="button" id="btnAgregarcircunferencia" value="Agregar" class="btn btn-primary" />
+                                <br />
+                                <br />
+                            </div>
+                        </article>
+                        <article id="tab2">
+                            <div class="col-md-10 offset-md-1">
+                                @*Cuadrado*@
+
+
+                                <input id="txtLado" type="number" class="form-control dark" placeholder="Lado" />
+                                <br />
+                                <input type="button" id="btnAgregarcuadrado" value="Agregar" class="btn btn-primary " />
+                                <br />
+                                <br />
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <div>
+        <div class="row">
+            <div class="col-md-6">
+                <label id="lblContadorCU">Cuadrados capturados en memoria</label>
+                <input type="text" value="" class="form-control" readonly placeholder="Cuadrados" id="txtContadorCU" />
+            </div>
+            <br />
+            <div class="col-md-6">
+                <label id="lblContadorCI">Circunferencias capturadas en memoria</label>
+                <input type="text" value="" class="form-control" readonly placeholder="Circunferencias" id="txtContadorCI" />
+            </div>
+        </div>
+        <br />
+        <br />
+        <br />
+        <table id="tblFiguras" class="table table-striped table-primary table-hover">
+            <thead>
+                <tr>
+                    <th>Figura</th>
+                    <th>Lado</th>
+                    <th>Radio</th>
+                    <th>Area</th>
+                </tr>
+            </thead>
+            <tbody id="tblFigurasCuerpo">
+            </tbody>
+        </table>
+
+    </div>
+    <br />
+    <br />
+    <div class="row">
+        <div class="d-flex justify-content-around">
+
+
+            <input type="button" id="btnDatos" value="Datos de las figuras Seleccionadas" class="btn btn-primary" />
+
+            <input type="button" id="btnDatosf" value=" Datos de todas las figuras" class="btn btn-primary" />
+
+            <input type="button" id="btnSumaDatos" value="Calcular Areas" class="btn btn-primary" />
+
+            <input type="button" id="btnLimpiar" value="Limpiar datos " class="btn btn-danger" />
+
+
+        </div>
+    </div>
+
+</form>
+@section Scripts{
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+
+    <script type="text/javascript">
+        //Control de las pestañas para cuadrado o circunferencia
+        $('aCuadrado').addClass('active');
+        $('.secciones article').hide();
+        $('.secciones article:first').show();
+        $('ul li a').click(function () {
+            $('ul li a').removeClass('active');
+            $(this).addClass('active');
+            $('.secciones article').hide();
+
+            var activeTab = $(this).attr('href');
+            $(activeTab).show();
+            return false;
+        });
+
+
+        let dataCI = [];
+        let dataCU = [];
+        var contadorDatosCI = 0;
+        var contadorDatosCU = 0;
+        let tipo = 1;
+        $(function () {
+            $("#btnAgregarcircunferencia").click(function (e) {
+            //Circunferencia
+                if ($("#txtRadio").val().trim() == "") {
+                    alert("¡Debe digitar un valor!");
+
+                    return false;
+                    e.preventDefault();
+                }
+                else {
+
+                    dataCI = [...dataCI, $("#txtRadio").val().trim()];
+                    contadorDatosCI = contadorDatosCI + 1;
+                    document.getElementById("txtContadorCI").value = contadorDatosCI;
+                }
+            });
+
+            $("#btnAgregarcuadrado").click(function (e) {
+                //Cuadrado
+                if ($("#txtLado").val().trim() == "") {
+                    alert("¡Debe digitar un valor!");
+
+                    return false;
+                    e.preventDefault();
+                }
+                else {
+
+                    dataCU = [...dataCU, $("#txtLado").val().trim()];
+                    contadorDatosCU = contadorDatosCU + 1;
+                    document.getElementById("txtContadorCU").value = contadorDatosCU;
+                }
+            });
+
+            $("#btnDatosf").click(function (e) {
+                cargarTablaCompleta();
+            });
+
+            $("#btnDatos").click(function (e) {
+                cargarTablaIndividual();
+            });
+
+            $("#aCuadrado").click(function (e) {
+                tipo = 1;
+            });
+            $("#aCircunferencia").click(function (e) {
+                tipo = 2;
+            });
+
+            $("#btnSumaDatos").click(function (e) {
+                cargarTablaIndividual('a');
+
+            });
+            $("#btnLimpiar").click(function (e) {
+                location.reload();
+
+            });
+
+            function cargarTablaIndividual(a1) {
+
+                $("#tblFigurasCuerpo").html('');
+                if (tipo == 1) {
+                    var contendor = $("#tblFigurasCuerpo").html();
+                    var nuevaFila = '<tr>';
+
+                    for (let value of dataCU) {
+                        let valor = '0';
+                        if (a1 != null) {
+
+                            var url = "@Url.Action("CalcularLado", "Figura")";
+
+
+                            var parametros = { lado: value };
+                            $.get(url, parametros).done(function (resultado) {
+                                valor = resultado;
+                                nuevaFila = nuevaFila + '<td>Cuadrado</td>';
+                                nuevaFila += '<td>' + value + '</td>';
+                                nuevaFila += '<td>No aplica</td>';
+                                nuevaFila += '<td>' + valor + '</td>';
+                                nuevaFila += '</tr>';
+                                contendor = $("#tblFigurasCuerpo").html();
+                                $("#tblFigurasCuerpo").html(contendor + nuevaFila);
+                                nuevaFila = '<tr>';
+                            });
+                        }
+                        else {
+                            nuevaFila = nuevaFila + '<td>Cuadrado</td>';
+                            nuevaFila += '<td>' + value + '</td>';
+                            nuevaFila += '<td>No aplica</td>';
+                            nuevaFila += '<td>N/A</td>';
+                            nuevaFila += '</tr>';
+                            contendor = $("#tblFigurasCuerpo").html();
+                            $("#tblFigurasCuerpo").html(contendor + nuevaFila);
+                            nuevaFila = '<tr>';
+                        }
+
+                    }
+                }
+                else if (tipo == 2) {
+
+
+                    var contendor1 = $("#tblFigurasCuerpo").html();
+                    var nuevaFila1 = '<tr>';
+                    for (let value of dataCI) {
+                        var valor = '0';
+                        if (a1 != null) {
+
+                            var url = "@Url.Action("CalcularRadio", "Figura")";
+
+
+                            var parametros = { radio: value };
+                            $.get(url, parametros).done(function (resultado) {
+
+                                valor = resultado;
+                                nuevaFila1 = nuevaFila1 + '<td>Circunferencia</td>';
+                                nuevaFila1 += '<td>No aplica</td>';
+                                nuevaFila1 += '<td>' + value + '</td>';
+                                nuevaFila1 += '<td>' + valor + '</td>';
+                                nuevaFila1 += '</tr>';
+                                contendor1 = $("#tblFigurasCuerpo").html();
+                                $("#tblFigurasCuerpo").html(contendor1 + nuevaFila1);
+                                nuevaFila1 = '<tr>';
+
+                            });
+
+                        }
+                        else {
+                            nuevaFila1 = nuevaFila1 + '<td>Circunferencia</td>';
+                            nuevaFila1 += '<td>No aplica</td>';
+                            nuevaFila1 += '<td>' + value + '</td>';
+                            nuevaFila1 += '<td>N/A</td>';
+                            nuevaFila1 += '</tr>';
+                            contendor1 = $("#tblFigurasCuerpo").html();
+                            $("#tblFigurasCuerpo").html(contendor1 + nuevaFila1);
+                            nuevaFila1 = '<tr>';
+                        }
+
+
+                    }
+                }
+            }
+
+            function cargarTablaCompleta() {
+                $("#tblFigurasCuerpo").html('');
+                var contendor = $("#tblFigurasCuerpo").html();
+                var nuevaFila = '<tr>';
+                for (let value of dataCU) {
+                    nuevaFila = nuevaFila + '<td>Cuadrado</td>';
+                    nuevaFila += '<td>' + value + '</td>';
+                    nuevaFila += '<td>No aplica</td>';
+                    nuevaFila += '<td>0</td>';
+                    nuevaFila += '</tr>';
+                    contendor = $("#tblFigurasCuerpo").html();
+                    $("#tblFigurasCuerpo").html(contendor + nuevaFila);
+                    nuevaFila = '<tr>';
+                }
+
+                var contendor1 = $("#tblFigurasCuerpo").html();
+                var nuevaFila1 = '<tr>';
+                for (let value of dataCI) {
+                    nuevaFila1 = nuevaFila1 + '<td>Circunferencia</td>';
+                    nuevaFila1 += '<td>No aplica</td>';
+                    nuevaFila1 += '<td>' + value + '</td>';
+                    nuevaFila1 += '<td>0</td>';
+                    nuevaFila1 += '</tr>';
+                    contendor1 = $("#tblFigurasCuerpo").html();
+                    $("#tblFigurasCuerpo").html(contendor1 + nuevaFila1);
+                    nuevaFila1 = '<tr>';
+                }
+            }
+        });
+    </script>
+}
+

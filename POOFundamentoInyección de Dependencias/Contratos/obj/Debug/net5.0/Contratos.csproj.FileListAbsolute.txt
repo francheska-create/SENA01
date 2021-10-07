@@ -1,0 +1,12 @@
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\bin\Debug\net5.0\Contratos.deps.json
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\bin\Debug\net5.0\Contratos.dll
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\bin\Debug\net5.0\ref\Contratos.dll
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\bin\Debug\net5.0\Contratos.pdb
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\Contratos.csproj.AssemblyReference.cache
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\Contratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\Contratos.AssemblyInfoInputs.cache
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\Contratos.AssemblyInfo.cs
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\Contratos.csproj.CoreCompileInputs.cache
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\Contratos.dll
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\ref\Contratos.dll
+C:\Users\Universo\source\repos\POOFundamentoInyección de Dependencias\Contratos\obj\Debug\net5.0\Contratos.pdb

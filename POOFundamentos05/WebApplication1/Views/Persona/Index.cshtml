@@ -1,0 +1,64 @@
+﻿@model WebApplication1.Models.Persona
+@{
+
+    ViewData["Title"] = "Persona";
+
+}
+<div class="container">
+    <div class="row">
+        <form action="">
+            <div class="col-md-4">
+                <div class="form-group">
+                    Nombre <input id="txtNombre" placeholder="Nombre" />
+                </div>
+                <div class="form-group">
+                    Fecha de nacimiento <input type="date" id="dtmFechaNacimiento" placeholder="dd/MM/YYYY" />
+                </div>
+                <div class="form-group">
+                    Fecha actual <input type="date" id="dtmFechaActual" placeholder="dd/MM/YYYY" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" id="Aceptar" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts{
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+
+<script type="text/javascript">
+    $(function () {
+
+        $("#Aceptar").click(function (e) {
+            
+            var Nombre1 = $("#txtNombre").val();
+            if (Nombre1.trim() == "") {
+                alert("Debe ingresar un nombre valido!");
+            }
+
+            var Fecha = $("#dtmFechaNacimiento").val();
+            if (Fecha.trim() == "") {
+                alert("Debe ingresar una fecha valida!");
+            }
+
+            var url = "@Url.Action("RecibirFecha", "Persona")";
+            var data = { Nombre: Nombre1, FechaNacimiento: Fecha };
+
+            $.post(url, data).done(function (resultado) {
+                var texto = Nombre1 + " tiene " + resultado + " año(s).";
+                if (resultado < 18) {
+                    texto = texto + "\nEs menor de edad."
+                }
+                else {
+                    texto = texto + "\nEs mayor de edad."
+                }
+                alert(texto);
+            });
+        });
+    });
+</script>
+}

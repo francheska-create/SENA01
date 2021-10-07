@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<ControlAsistencia.Models.Programa>
+@{ }
+
+<style>
+    th {
+        cursor: pointer;
+    }
+</style>
+
+
+<h1> Lista de Programa de Formacion  del SENA "Totalmente Serializado"</h1>
+<p>
+    <a asp-action="Create" class="btn btn-dark btn-lg"><i class="fas fa-address-book"></i>&nbsp;Agregar programa</a>
+
+
+</p>
+
+<table class="table  table-striped table-hover table-dark" id="tablita">
+    <thead>
+        <tr>
+            <th>
+                <div class="d-flex justify-content-center">Programa Id</div>
+
+            </th>
+            <th>
+                <div class="d-flex justify-content-center">Nombre</div>
+
+            </th>
+            <th>
+                <div class="d-flex justify-content-center">Versión</div>
+            </th>
+            <th>
+                <div class="d-flex justify-content-center">Codigo</div>
+
+            </th>
+            <th>
+                <div class="d-flex justify-content-center">Acciones</div>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+
+</table>
+@section Scripts{
+    <script src="~/js/Programa.js"></script>
+    <script src="https://kit.fontawesome.com/eac556b4db.js" crossorigin="anonymous"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+}
+
+
+

@@ -1,0 +1,16 @@
+F:\solid\SOLID02\OpenClosedPrinciple\bin\Debug\net5.0\OpenClosedPrinciple.exe
+F:\solid\SOLID02\OpenClosedPrinciple\bin\Debug\net5.0\OpenClosedPrinciple.deps.json
+F:\solid\SOLID02\OpenClosedPrinciple\bin\Debug\net5.0\OpenClosedPrinciple.runtimeconfig.json
+F:\solid\SOLID02\OpenClosedPrinciple\bin\Debug\net5.0\OpenClosedPrinciple.runtimeconfig.dev.json
+F:\solid\SOLID02\OpenClosedPrinciple\bin\Debug\net5.0\OpenClosedPrinciple.dll
+F:\solid\SOLID02\OpenClosedPrinciple\bin\Debug\net5.0\ref\OpenClosedPrinciple.dll
+F:\solid\SOLID02\OpenClosedPrinciple\bin\Debug\net5.0\OpenClosedPrinciple.pdb
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.csproj.AssemblyReference.cache
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.AssemblyInfo.cs
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.dll
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\ref\OpenClosedPrinciple.dll
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.pdb
+F:\solid\SOLID02\OpenClosedPrinciple\obj\Debug\net5.0\OpenClosedPrinciple.genruntimeconfig.cache

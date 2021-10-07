@@ -1,0 +1,38 @@
+﻿<Window x:Class="PLWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="ButtonCapturarRadio1" Background="#FF005B7E">
+        <GroupBox x:Name="GroupBoxObjetos" Header="GroupBox" Margin="55,124,500,165" Foreground="Black">
+            <StackPanel Margin="10,0,10,0">
+                <RadioButton x:Name="RadioButtonMoneda" Content="moneda" RenderTransformOrigin="-0.368,1.799" Background="{x:Null}" Width="179" Height="25" />
+                <RadioButton x:Name="RadioButtonRueda" Content="rueda" Height="15" Background="{x:Null}" Width="177"/>
+            </StackPanel>
+
+
+        </GroupBox>
+
+        <Button x:Name="ButtonCapturarRadio" Content="Capturar radio" HorizontalAlignment="Left" Height="30" Margin="580,44,0,0" VerticalAlignment="Top" Width="110" Click="CapturarRadio_Click" Background="Gray"/>
+        <Button x:Name="ButtonCalcularArea" Content="Calcular Area" HorizontalAlignment="Left" Height="30" Margin="580,84,0,0" VerticalAlignment="Top" Width="110" Click="CalcularArea_Click" Background="Gray"/>
+        <Button x:Name="ButtonCalcularPerimetro" Content="Calcular Perimetro" HorizontalAlignment="Left" Height="30" Margin="580,124,0,0" VerticalAlignment="Top" Width="110" Click="CalcularPerimetro_Click" Background="Gray"/>
+        <Button x:Name="ButtonSalir" Content="Salir" HorizontalAlignment="Left" Height="30" Margin="580,199,0,0" VerticalAlignment="Top" Width="110" Click="Salir_Click" Background="Gray"/>
+        <TextBox x:Name="TextBoxRadio" HorizontalAlignment="Left" Margin="144,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="25" RenderTransformOrigin="0.542,1.202"  AcceptsReturn="True" AllowDrop="True" Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" SelectionTextBrush="#FFBFCDDB">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="1"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+            
+        </TextBox>
+        <Label x:Name="LabelBoxRadio" Content="Radio:" HorizontalAlignment="Left" Height="45" Margin="65,39,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.533,0.002" FontSize="20"/>
+        <Label x:Name="LabelResultado" Content="x" HorizontalAlignment="Left" Margin="385,299,0,0" VerticalAlignment="Top"/>
+        
+    </Grid>
+</Window>

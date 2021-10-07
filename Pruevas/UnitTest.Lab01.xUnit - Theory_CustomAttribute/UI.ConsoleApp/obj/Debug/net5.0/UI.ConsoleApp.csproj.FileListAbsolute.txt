@@ -1,0 +1,38 @@
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.exe
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.deps.json
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.runtimeconfig.json
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.runtimeconfig.dev.json
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\ref\UI.ConsoleApp.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.pdb
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\BLL.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\bin\Debug\net5.0\BLL.pdb
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.AssemblyInfo.cs
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.csproj.CopyComplete
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\ref\UI.ConsoleApp.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.pdb
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.genruntimeconfig.cache
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.exe
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.deps.json
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.runtimeconfig.json
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.runtimeconfig.dev.json
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.dll
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\ref\UI.ConsoleApp.dll
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\UI.ConsoleApp.pdb
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\BLL.dll
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\bin\Debug\net5.0\BLL.pdb
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.csproj.AssemblyReference.cache
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.AssemblyInfoInputs.cache
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.AssemblyInfo.cs
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.csproj.CoreCompileInputs.cache
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.csproj.CopyComplete
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.dll
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\ref\UI.ConsoleApp.dll
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.pdb
+F:\UnitTest.Lab01.xUnit - Theory_CustomAttribute\UI.ConsoleApp\obj\Debug\net5.0\UI.ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,196 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    Vista fuertemente tipada.
+*@
+
+@model POOFundamento04WebApplication.Models.entidad.Circunferencia
+
+@{
+
+    ViewData["Title"] = "Circunferencia";
+
+}
+ 
+<div class="row">
+    <div class="col">
+        <p><span style="">Aplicación Web MVC, con ASP.Net Core, JQery y Bootstrap</span></p>
+    </div>
+</div>
+<form asp-action="Index">
+    <div class="container">
+        <div class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        </div>
+
+
+        <div class="row">
+            <div class="col"><label class="form-label">Ingrese Radio:</label><input type="text" id="TextRadio" class="form-control-lg"></div>
+            <div class="col"></div>
+            <div class="col"><button class="btn btn-primary" id="ButtonArea" type="button" style="width: 100%;">Calcular Área</button></div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <fieldset>
+                    <legend>Seleccione el objeto:</legend>
+                    <div class="form-check"><input class="form-check-input" type="radio" id="formCheck-2" name="objeto">
+                    <label class="form-check-label" for="formCheck-2">Rueda</label></div> 
+                    <div class="form-check"><input class="form-check-input" type="radio" id="formCheck-1" name="objeto">
+                    <label class="form-check-label" for="formCheck-1">Moneda</label></div>
+
+                </fieldset>
+            </div>
+            <div class="col"></div>
+            <div class="col"><button class="btn btn-primary" id="ButtonPerimetro" type="button" style="width: 100%">Calcular Perimetro</button></div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+          <div class="col">
+           <div class="alert alert-success" role="alert" id="TextAlert"><span><strong>Resultado:</strong>&nbsp;</span> </div>
+          </div>
+          <div class="col">
+          </div>
+
+        </div>
+
+            <div class="row">
+                <span asp-validation-for="Radio" class="text-danger"></span>
+
+            </div>
+    </div>  
+    
+
+</form>
+
+@section Scripts{ 
+
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+
+<script type="text/javascript">
+    $(function () {
+        //1: Jquery.post simple
+        $("#ButtonArea").click(function (e){
+            if (!$('#formCheck-1').is(':checked') && !$('#formCheck-2').is(':checked')) {
+                alert("!Seleccione un objeto válido¡");
+                return false;
+                e.preventDefault();
+            }
+            else if ($("#TextRadio").val() < 0) {
+                alert("!Ingrese un numero valido¡");
+                return false;
+                e.preventDefault();
+            }
+            else {
+                var url = "@Url.Action("Area", "Circunferencia")";
+                var radio = $("#TextRadio").val();
+                var data = { radio: radio };
+            }
+            //JQuery 1.5+
+            $.post(url, data).done(function (data) {
+                // Si se ejecuta al operación con exito
+                if ($('#formCheck-1').is(':checked')) {
+                    $("#TextAlert").html("El área de la rueda es : " + data + " mts.");
+                }
+                else if ($('#formCheck-2').is(':checked')) {
+                    $("#TextAlert").html("El área de la modena es : " + data + " mts.");
+                }
+                }).fail(manejarErrorAjax).always(function() {
+                    //Esta función siempre se ejecuta
+                });
+            });
+            // Se ejecuta si hubo error
+            function manejarErrorAjax(err){
+                //err.responseText es el texto del error (No siempre recomendable mostrar)
+                console.log(err.responseText);
+            }
+        });
+        $(function () {
+        //Perímetro: Jquey.post simple
+        $("#ButtonPerimetro").click(function (e){
+            if (!$('#formCheck-1').is(':checked') && !$('#formCheck-2').is(':checked')) {
+                alert("!it's checked radio button¡");
+                return false;
+                e.preventDefault();
+            }
+            else if ($("#TextRadio").val() < 0) {
+                alert("!Ingrese un numero valido¡");
+                return false;
+                e.preventDefault();
+            }
+            else {
+                var url = "@Url.Action("Perimetro", "Circunferencia")";
+                var radio = $("#TextRadio").val();
+                var data = { radio: radio };
+            }
+            //JQuery 1.5+
+            $.post(url, data).done(function (data) {
+                // Si se ejecuta al operación con exito
+                if ($('#formCheck-1').is(':checked')) {
+                    $("#TextAlert").html("El área de la rueda es : " + data + " mts.");
+                }
+                else if ($('#formCheck-2').is(':checked')) {
+                    $("#TextAlert").html("El área de la modena es : " + data + " mts.");
+                }
+                }).fail(manejarErrorAjax).always(function() {
+                    //Esta función siempre se ejecuta
+            });
+        });
+        // Se ejecuta si hubo error
+        function manejarErrorAjax(err){
+           //err.responseText es el texto del error (No siempre recomendable mostrar)
+           console.log(err.responseText);
+        }
+    });
+ </script>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

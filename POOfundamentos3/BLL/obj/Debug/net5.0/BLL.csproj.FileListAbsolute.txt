@@ -1,0 +1,12 @@
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Universo\source\repos\POOfundamentos3\BLL\obj\Debug\net5.0\BLL.pdb

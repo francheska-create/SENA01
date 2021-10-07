@@ -1,0 +1,395 @@
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.exe
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.deps.json
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.runtimeconfig.json
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.runtimeconfig.dev.json
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.pdb
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.Views.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.Views.pdb
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.AssemblyReference.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.AssemblyInfoInputs.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.AssemblyInfo.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.CoreCompileInputs.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorAssemblyInfo.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorAssemblyInfo.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\staticwebassets\EmployeesApp.StaticWebAssets.Manifest.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\staticwebassets\EmployeesApp.StaticWebAssets.xml
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeesApp.styles.css
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.TagHelpers.input.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.TagHelpers.output.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorCoreGenerate.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorTargetAssemblyInfo.cache
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorTargetAssemblyInfo.cs
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.Views.pdb
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.CopyComplete
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.dll
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.pdb
+C:\Users\User01\RiderProjects\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.genruntimeconfig.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.exe
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.deps.json
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.runtimeconfig.json
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.runtimeconfig.dev.json
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.pdb
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.Views.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.Views.pdb
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.AssemblyInfoInputs.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.AssemblyInfo.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.CoreCompileInputs.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorAssemblyInfo.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorAssemblyInfo.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\staticwebassets\EmployeesApp.StaticWebAssets.Manifest.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\staticwebassets\EmployeesApp.StaticWebAssets.xml
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeesApp.styles.css
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.TagHelpers.input.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.TagHelpers.output.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorCoreGenerate.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorTargetAssemblyInfo.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorTargetAssemblyInfo.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.Views.pdb
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.CopyComplete
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.dll
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.pdb
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.genruntimeconfig.cache
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\Macronium\source\repos\2141041\Pruebas-Testing\Testing - x Unit\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.AssemblyReference.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.exe
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.Views.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.AssemblyReference.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.AssemblyInfoInputs.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.AssemblyInfo.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.CoreCompileInputs.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorAssemblyInfo.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorAssemblyInfo.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\staticwebassets\EmployeesApp.StaticWebAssets.Manifest.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\staticwebassets\EmployeesApp.StaticWebAssets.xml
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeesApp.styles.css
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.TagHelpers.input.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.TagHelpers.output.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorCoreGenerate.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorTargetAssemblyInfo.cache
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.RazorTargetAssemblyInfo.cs
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.Views.pdb
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.dll
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.pdb
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.deps.json
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.runtimeconfig.json
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.runtimeconfig.dev.json
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.pdb
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\bin\Debug\netcoreapp3.1\EmployeesApp.Views.pdb
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.csproj.CopyComplete
+F:\Testing de Software\UnitTest.Lab02.MVC.xUnit.Employees\EmployeesApp\obj\Debug\netcoreapp3.1\EmployeesApp.genruntimeconfig.cache

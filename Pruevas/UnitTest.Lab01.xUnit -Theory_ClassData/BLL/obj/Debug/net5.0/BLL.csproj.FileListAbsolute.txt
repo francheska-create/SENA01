@@ -1,0 +1,36 @@
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\User01\RiderProjects\UnitTest.Lab01.xUnit\BLL\obj\Debug\net5.0\BLL.pdb
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\BLL.dll
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\ref\BLL.dll
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\BLL.pdb
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.dll
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.pdb
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\BLL.deps.json
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\BLL.dll
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\ref\BLL.dll
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\bin\Debug\net5.0\BLL.pdb
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.dll
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\ref\BLL.dll
+F:\UnitTest.Lab01.xUnit -Theory_ClassData\BLL\obj\Debug\net5.0\BLL.pdb
